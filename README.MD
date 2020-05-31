@@ -37,3 +37,40 @@ Underline 2
 
 # Imagenes
 ![Logo Github](https://lh3.googleusercontent.com/proxy/aPSmX_v7odva0iSVAjcxLupVbaH9SYgK9DPId3V_fO-fsxoyt0bCBRPP4e4t4K0WC79ynLCvHswRMWtnTpImgo2J9r_7ZA3IEvQcWoNwfrTlyvZc4FY)
+
+# Codigo Snippets
+Codigo en JSON
+```JSON
+[
+    {
+        "title": "apples",
+        "count": [12000, 2000],
+        "description": {"text":"...", "sensitive":false}
+    }
+]
+```
+
+Codigo en Javascript
+```Javascript
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    <div>
+      <web-component>{block}</web-component>
+    </div>
+  )
+}
+
+export  $initHighlight;
+```

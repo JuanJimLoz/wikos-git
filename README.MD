@@ -79,3 +79,10 @@ export  $initHighlight;
 | ------ | --------- | --------- |
 | Juan   | Jimenez   | CURP      |
 | Sergio | Jimenez   | Constancia|
+
+# Citas 
+Esto es una cita referente a una cita que pondremos aqui abajo:
+> Esto es una cita.
+
+Este es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.

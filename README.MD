@@ -86,3 +86,20 @@ Esto es una cita referente a una cita que pondremos aqui abajo:
 
 Este es otro texto que no se relaciona con la cita anterior.
 > Esto es otra cita.
+
+# Lineas Divisoras
+
+Esto es un texto que será dividido por guines medios.
+
+---
+Este es otro texto  que sera dividido por guines medios.
+
+---
+
+Este texto esta dividido por arteriscos.
+
+***
+
+Este es otro texto dividido por guines bajos.
+
+___

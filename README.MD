@@ -1,3 +1,6 @@
+# Version del Curso 
+Version actual: 1.2.2
+
 # - Tamaños de cabeceras
 # Cabecera H1
 ## Cabecera H2
